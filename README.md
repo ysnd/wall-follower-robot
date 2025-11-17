@@ -1,5 +1,5 @@
 # Wall Follower Robot
-Simple wall folower robot 
+Simple wall follower robot based on an ultrasonic distance sensor 
 
 ## Component
 - Ultrasonic Sensor x3(Front, Right, left) 
